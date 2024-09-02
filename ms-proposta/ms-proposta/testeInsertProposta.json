@@ -1,0 +1,12 @@
+//PEDRO BONELLI RM93369
+//LUCAS GREGIO MESSIAS RM93878
+
+{
+  "nome":"Brian Patrick",
+  "sobrenome":"Carrol",
+  "cpf":"577.483.700-95",
+  "telefone":"(15) 97143-6653",
+  "renda":45000.00,
+  "valorSolicitado":10000.00,
+  "prazoEmMeses":18
+}
